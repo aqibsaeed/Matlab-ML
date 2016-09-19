@@ -1,4 +1,4 @@
-# Machine learning in Matlab
+### Machine learning in Matlab
 
 Partial implementation of machine learning algorithms in Matlab/Octave:
 
