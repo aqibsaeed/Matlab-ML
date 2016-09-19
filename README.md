@@ -1,3 +1,11 @@
 # Machine learning in Matlab
 
-Matlab implementation of various machine learning algorithms
+Partial implementation of machine learning algorithms in Matlab/Octave:
+
+* Linear Regression
+* Logistic Regression
+* Neural Network
+* K-Means
+* PCA
+* Anomaly Detection
+* Collabrative Filtering 
